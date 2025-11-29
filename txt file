@@ -1,0 +1,61 @@
+{
+    "location": {
+        "name": "London",
+        "region": "City of London, Greater London",
+        "country": "United Kingdom",
+        "lat": 51.5171,
+        "lon": -0.1062,
+        "tz_id": "Europe/London",
+        "localtime_epoch": 1764396401,
+        "localtime": "2025-11-29 06:06"
+    },
+    "current": {
+        "last_updated_epoch": 1764396000,
+        "last_updated": "2025-11-29 06:00",
+        "temp_c": 11.2,
+        "temp_f": 52.2,
+        "is_day": 0,
+        "condition": {
+            "text": "Partly cloudy",
+            "icon": "//cdn.weatherapi.com/weather/64x64/night/116.png",
+            "code": 1003
+        },
+        "wind_mph": 15.4,
+        "wind_kph": 24.8,
+        "wind_degree": 201,
+        "wind_dir": "SSW",
+        "pressure_mb": 1003.0,
+        "pressure_in": 29.62,
+        "precip_mm": 0.32,
+        "precip_in": 0.01,
+        "humidity": 87,
+        "cloud": 50,
+        "feelslike_c": 8.5,
+        "feelslike_f": 47.3,
+        "windchill_c": 8.2,
+        "windchill_f": 46.8,
+        "heatindex_c": 11.0,
+        "heatindex_f": 51.7,
+        "dewpoint_c": 8.4,
+        "dewpoint_f": 47.0,
+        "vis_km": 10.0,
+        "vis_miles": 6.0,
+        "uv": 0.0,
+        "gust_mph": 22.8,
+        "gust_kph": 36.8,
+        "air_quality": {
+            "co": 147.85,
+            "no2": 25.15,
+            "o3": 42.0,
+            "so2": 2.65,
+            "pm2_5": 5.75,
+            "pm10": 12.55,
+            "us-epa-index": 1,
+            "gb-defra-index": 1
+        },
+        "short_rad": 0,
+        "diff_rad": 0,
+        "dni": 0,
+        "gti": 0
+    }
+}
